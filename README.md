@@ -15,6 +15,11 @@ Thank you for your interest!
 
 ### Inference Visualization
 Below is a video demonstration of the model inference on the COCO 2017 dataset:
+<p align="center">
+  <img src = "./demos/videos/9DPose.gif" width="80%">
+  <img src = "./demos/videos/plane9D.gif" width="80%">
+  <img src = "./demos/videos/kitti-yolo2.gif" width="80%">
+</p>
 <video width="640" height="360" controls>
   <source src="https://liujin1975060601.github.io/9dPose1.0/demos/videos/plane9D.mp4" type="video/mp4">
 点击链接播放演示视频，请<a href="https://liujin1975060601.github.io/9dPose1.0/demos/videos/plane9D.mp4">点击这里播放视频</a>。
