@@ -14,7 +14,7 @@ Thank you for your interest!
 
 
 ### Inference Visualization
-Below is a video demonstration of the model inference on the COCO 2017 dataset:
+Below is a video demonstration of the model inference on the  Plane9D and KITTI dataset:
 <p align="center">
   <img src = "./demos/videos/9DPose.gif" width="80%">
   <img src = "./demos/videos/plane9D.gif" width="80%">
